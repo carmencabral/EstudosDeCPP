@@ -22,15 +22,15 @@ C++ no Visual Studio 2019.
 19 - Array bidimensional/matriz. <br>
 20 - Jogo da Forca. <br>
 <pre>
-21 - Argumentos para função main: argc e argv. <br>
-      O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp. <br>
-22 - Funções: Retorno e Parâmetros. <br>
-      a) Função sem retorno e sem parâmetros; <br>
-      b) Função sem retorno e com parâmetros do tipo int; <br>
-      c) Função com retorno tipo int e com parâmetros do tipo int; <br>
-      d) Função sem retorno e com parâmetros do tipo vetor/array; <br>
-23 - Sobrecarga de funções/overload <br>
+21 - Argumentos para função main: argc e argv.
+      O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp.
+22 - Funções: Retorno e Parâmetros.
+      a) Função sem retorno e sem parâmetros; 
+      b) Função sem retorno e com parâmetros do tipo int; 
+      c) Função com retorno tipo int e com parâmetros do tipo int; 
+      d) Função sem retorno e com parâmetros do tipo vetor/array; 
+23 - Sobrecarga de funções/overload 
       Trata-se de duas ou mais funções com o mesmo nome, mas com alterações no retorno e nos parâmetros.
-      Neste exercício, foram usadas duas funções com o mesmo nome, "soma",<br>
-      sendo que, uma função é sem retorno e sem parâmetros, e a outra, sem retorno, mas com parâmetros do tipo int. <br>
+      Neste exercício, foram usadas duas funções com o mesmo nome, "soma",
+      sendo que, uma função é sem retorno e sem parâmetros, e a outra, sem retorno, mas com parâmetros do tipo int. 
 </pre>

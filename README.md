@@ -28,3 +28,7 @@ C++ no Visual Studio 2019.
       b) Função sem retorno e com parâmetros do tipo int; <br>
       c) Função com retorno tipo int e com parâmetros do tipo int; <br>
       d) Função sem retorno e com parâmetros do tipo vetor/array; <br>
+23 - Sobrecarga de funções/overload <br>
+      Trata-se de duas ou mais funções com o mesmo nome, mas com alterações no retorno e nos parâmetros.
+      Neste exercício, foram usadas duas funções com o mesmo nome, "soma",<br>
+      sendo que, uma função é sem retorno e sem parâmetros, e a outra, sem retorno, mas com parâmetros do tipo int. <br>

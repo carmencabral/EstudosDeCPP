@@ -21,6 +21,7 @@ C++ no Visual Studio 2019.
 18 - Array/Vetor. <br>
 19 - Array bidimensional/matriz. <br>
 20 - Jogo da Forca. <br>
+<pre>
 21 - Argumentos para função main: argc e argv. <br>
       O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp. <br>
 22 - Funções: Retorno e Parâmetros. <br>
@@ -32,3 +33,4 @@ C++ no Visual Studio 2019.
       Trata-se de duas ou mais funções com o mesmo nome, mas com alterações no retorno e nos parâmetros.
       Neste exercício, foram usadas duas funções com o mesmo nome, "soma",<br>
       sendo que, uma função é sem retorno e sem parâmetros, e a outra, sem retorno, mas com parâmetros do tipo int. <br>
+</pre>

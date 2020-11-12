@@ -1,6 +1,6 @@
 # EstudosDeCPP
 C++ no Visual Studio 2019.
-
+<pre>
 01 - Faz as operações matemáticas num form. Programa em ambiente gráfico.<br> 
 02 - Calcula de acordo com a escolha da pizza. Programa em ambiente gráfico.<br> 
 03 - Variáveis e seus tipos de dados. Ambiente console. <br>
@@ -20,8 +20,7 @@ C++ no Visual Studio 2019.
 17 - Instrução de repetição for. <br>
 18 - Array/Vetor. <br>
 19 - Array bidimensional/matriz. <br>
-20 - Jogo da Forca. <br>
-<pre>
+20 - Jogo da Forca.
 21 - Argumentos para função main: argc e argv.
       O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp.
 22 - Funções: Retorno e Parâmetros.

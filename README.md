@@ -21,5 +21,10 @@ C++ no Visual Studio 2019.
 18 - Array/Vetor. <br>
 19 - Array bidimensional/matriz. <br>
 20 - Jogo da Forca. <br>
-21 - Argumentos para função main: argc e argv <br>
-O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp.
+21 - Argumentos para função main: argc e argv. <br>
+      O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp. <br>
+22 - Funções: Retorno e Parâmetros. <br>
+      a) Função sem retorno e sem parâmetros; <br>
+      b) Função sem retorno e com parâmetros do tipo int; <br>
+      c) Função com retorno tipo int e com parâmetros do tipo int; <br>
+      d) Função sem retorno e com parâmetros do tipo vetor/array; <br>

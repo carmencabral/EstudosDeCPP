@@ -21,3 +21,5 @@ C++ no Visual Studio 2019.
 18 - Array/Vetor. <br>
 19 - Array bidimensional/matriz. <br>
 20 - Jogo da Forca. <br>
+21 - Argumentos para função main: argc e argv <br>
+O ficheiro/arquivo .txt do exercício 21 explica as instruções para a execução do .cpp.

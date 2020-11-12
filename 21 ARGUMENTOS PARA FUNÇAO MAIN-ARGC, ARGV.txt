@@ -1,0 +1,15 @@
+21 - Argumentos para a função main, argc e argv
+INSTRUÇÕES PARA EXECUTAR O PROGRAMA
+1) No Visual Studio, Ctrl+F5.
+2) No prompt de comando (cmd), digitar CD.. até chegar no C:\
+3) Digitar DIR para verificar onde está o ficheiro/arquivo .exe
+4) No explorador de arquivos/ficheiro, copiar o caminho/path do .exe
+5) Exemplo: Se o caminho do .exe for: C:\Aulas\Debug> e o nome do ficheiro/arquivo aula21.exe
+6) No prompt do comando C:\Aulas\Debug> 
+6.1) Digitar aula21 sol
+Aparecerá na tela: Vou a praia.
+6.2) Digitar aula21 nublado
+Aparecerá na tela: Vou ao cinema.
+6.3) Digitar aula21 chuva
+Aparecerá na tela: Fico em casa.
+

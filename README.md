@@ -32,4 +32,8 @@ C++ no Visual Studio 2019.
       Trata-se de duas ou mais funções com o mesmo nome, mas com alterações no retorno e nos parâmetros.
       Neste exercício, foram usadas duas funções com o mesmo nome, "soma",
       sendo que, uma função é sem retorno e sem parâmetros, e a outra, sem retorno, mas com parâmetros do tipo int. 
+24 - Funções: Omissão de argumentos/parâmetros e Argumentos/parâmetros padrão
+25 - Funções Recursivas/Recursividade
+26 - Funções Recursivas: Fatorial/Fibonacci
+27 - Enum
 </pre>

@@ -36,4 +36,12 @@ C++ no Visual Studio 2019.
 25 - Funções Recursivas/Recursividade
 26 - Funções Recursivas: Fatorial/Fibonacci
 27 - Enum
+28 - Pilha/Stack - parte 1
+29 - Pilha/Stack - parte 2
+30 - Fila/Queue
+31 - Lista - parte 1
+32 - Lista - parte 2
+33 - Struct - parte 1
+34 - Struct - parte 2
+35 - Struct - parte 3
 </pre>

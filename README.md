@@ -53,5 +53,8 @@ C++ no Visual Studio 2019.
 *Encomendas-Try-Catch: Encomendas com Try Catch
       Controlos: ComboBox; CheckBox; RadioButton; Button; TextBox
 *Primos-Pares: Gera 4 números aleatórios, conta pares, mostra o maior, o menor e se há primos.
-
+*ListBox-operações: 
+      Limpar; Adicionar textBox para a listBox; Remover da lista (o que estiver na textBox); Inicializar listBox;
+      Contar elementos da listBox; Eliminar 5 primeiros e os 5 últimos da listBox; Verificar se existe na lista;
+      Substitui, se existir.
 </pre>

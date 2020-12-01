@@ -3,6 +3,7 @@ C++ no Visual Studio 2019.
 <pre>
 01 - Faz as operações matemáticas num form. Programa em ambiente gráfico.
 02 - Calcula de acordo com a escolha da pizza. Programa em ambiente gráfico.
+****AMBIENTE CONSOLE****
 03 - Variáveis e seus tipos de dados. Ambiente console. 
 04 - Reconhecer caracteres da língua portuguesa nos programas C++. Ambiente console. 
 05 - Declaração de múltiplas variáveis e constantes/#define. Ambiente console. 
@@ -44,4 +45,11 @@ C++ no Visual Studio 2019.
 33 - Struct - parte 1
 34 - Struct - parte 2
 35 - Struct - parte 3
+</pre>
+
+<pre>
+****PROGRAMAS NO WINDOWS FORMS****
+Encomendas-Try-Catch: Encomendas com Try Catch
+      Controlos: ComboBox; CheckBox; RadioButton; Button; TextBox
+      
 </pre>

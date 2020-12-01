@@ -50,7 +50,8 @@ C++ no Visual Studio 2019.
 
 <pre>
 ****PROGRAMAS NO WINDOWS FORMS****
-Encomendas-Try-Catch: Encomendas com Try Catch
+*Encomendas-Try-Catch: Encomendas com Try Catch
       Controlos: ComboBox; CheckBox; RadioButton; Button; TextBox
-      
+*Primos-Pares: Gera 4 números aleatórios, conta pares, mostra o maior, o menor e se há primos.
+
 </pre>

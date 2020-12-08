@@ -46,6 +46,12 @@ C++ no Visual Studio 2019.
 33 - Struct - parte 1
 34 - Struct - parte 2
 35 - Struct - parte 3
+36 - Ponteiros/Pointers/Apontadores - parte 1
+37 - Ponteiros/Pointers/Apontadores - parte 2
+      Inclui arrays/vetor
+38 - Ponteiros/Pointers/Apontadores - parte 3
+      Inclui funções
+39 - Alocação dinâmica de memória - malloc()
 </pre>
 
 <pre>

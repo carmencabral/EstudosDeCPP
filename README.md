@@ -52,6 +52,8 @@ C++ no Visual Studio 2019.
 38 - Ponteiros/Pointers/Apontadores - parte 3
       Inclui funções
 39 - Alocação dinâmica de memória - malloc()
+40 - printf e scanf
+41 - printf e cout
 </pre>
 
 <pre>

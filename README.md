@@ -54,6 +54,18 @@ C++ no Visual Studio 2019.
 39 - Alocação dinâmica de memória - malloc()
 40 - printf e scanf
 41 - printf e cout
+42 - Vector - Métodos: 
+      push_back(): insere elementos no final do vector.
+      insert(): insere elementos na posição indicada.
+      erase(): remove o elemento indicado.
+      size(): indica o tamanho do vector.
+      front(): mostra o primeiro elemento.
+      back(): mostra o último elemento.
+      at(): mostra o elemento na posição indicada.
+      swap(): troca valores entre 2 vectors.
+      empty(): indica vector vazio.
+      pop_back(): remove elementos do vector.
+      clear(): limpa o vector.
 </pre>
 
 <pre>

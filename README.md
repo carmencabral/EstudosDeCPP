@@ -40,9 +40,36 @@ C++ no Visual Studio 2019.
 27 - Enum
 28 - Pilha/Stack - parte 1
 29 - Pilha/Stack - parte 2
+      push(): inclui elementos.
+      size(): mostra o tamanho.
+      top(): visualiza o elemento do topo.
+      pop(): retira elemento do topo.
+      empty(): pilha vazia.
 30 - Fila/Queue
+      push(): inclui elementos na fila
+      size(): mostra o tamanho da fila
+      pop(): retira elemento da fila
+      empty(): verifica se fila está vazia
+      front(): mostra a primeira carta
+      back(): mostra a última carta
 31 - Lista - parte 1
 32 - Lista - parte 2
+      DECLARAÇÕES DE LISTA:
+      list<int> aula(50); //50 posições
+      list<int> aula(5, 50); //5 posições com valor 50
+      list<int> aula, canal, teste; //3 listas
+      MÉTODOS:
+      push_back(): insere atrás
+      push_front(): insere na frente
+      insert(): insere o elemento indicado
+      advance(): indica a posição que o elemento será inserido
+      front(): acessa o primeiro elemento
+      begin(): declara o iterador
+      size(): mostra o tamanho da lista
+      pop_front(): apaga o primeiro elemento
+      sort(): ordena
+      reverse(): inverte a lista
+      merge(): mescla duas listas
 33 - Struct - parte 1
 34 - Struct - parte 2
 35 - Struct - parte 3

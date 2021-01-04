@@ -6,8 +6,8 @@
 //setbase(), bitset<>()
 
 #include <iostream>
-#include <cmath> //contém o valor de PI = M_PI
-#include <iomanip> //contém setbase()
+#include <cmath> //contÃ©m o valor de PI = M_PI
+#include <iomanip> //contÃ©m setbase()
 #include <bitset>
 using namespace std;
 
@@ -23,7 +23,7 @@ int main()
     //setw(10) coloca uma largura/width de 5
     cout << "num2 com largura 10: " << setw(5) << setfill('0') << num2;
 
-    cout.precision(3); //duas casas decimais, pois o ponto também conta
+    cout.precision(3); //duas casas decimais, pois o ponto tambÃ©m conta
     cout << "\nValor de PI com precision: " << pi << endl;
 
     cout << "Valor de PI em notacao cientifica: " << scientific << pi << endl;

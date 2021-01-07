@@ -93,7 +93,7 @@ C++ no Visual Studio 2019.
       empty(): indica vector vazio.
       pop_back(): remove elementos do vector.
       clear(): limpa o vector.
-43 * System()
+43 - System()
       O parâmetro de system() é um comando do sistema operacional
       Parâmetros do DOS usados: dir; pause; cls; color
       dir: mostra pastas e ficheiros/arquivos do sistema
@@ -101,6 +101,8 @@ C++ no Visual Studio 2019.
       cls: limpa a tela
       color xy: altera cor de fundo e da fonte do prompt de comando,
       onde x, caracter para cor de fundo e y, caracter para cor da fonte 
+44 - POO: Programação Orientada a Objetos
+      Declaração de classe; Instanciação de objeto.
 </pre>
 
 <pre>

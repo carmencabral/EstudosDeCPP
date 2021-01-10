@@ -108,7 +108,12 @@ C++ no Visual Studio 2019.
 46 - POO: Programação Orientada a Objetos - parte 3
       Métodos Get() e Set().
       Incluir o ficheiro 46 classes.h
-
+47 - POO: Programação Orientada a Objetos - parte 4
+      Aplicação de Herança.
+      Incluir o ficheiro 47 classes.h
+48 - POO: Programação Orientada a Objetos - parte 5
+      Aplicação de Herança Mútipla.
+      Incluir o ficheiro 48 classes.h
 </pre>
 
 <pre>

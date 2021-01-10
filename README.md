@@ -105,6 +105,9 @@ C++ no Visual Studio 2019.
       Declaração de classe; Instanciação de objeto.
 45 - POO: Programação Orientada a Objetos - parte 2
       Criação da classe externa/ficheiro/arquivo externo Aviao.h
+46 - POO: Programação Orientada a Objetos - parte 3
+      Métodos Get() e Set().
+      Incluir o ficheiro 46 classes.h
 
 </pre>
 

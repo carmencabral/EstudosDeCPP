@@ -114,6 +114,11 @@ C++ no Visual Studio 2019.
 48 - POO: Programação Orientada a Objetos - parte 5
       Aplicação de Herança Mútipla.
       Incluir o ficheiro 48 classes.h
+50 - Operações com arquivo/ficheiro - parte 1
+      ofstream: arquivo/ficheiro de saída do .cpp
+      open: abre o arquivo. 
+      close: fecha o arquivo. 
+      ios::app...inseri o conteúdo no final do arquivo, sem sobrescrever o que já existe.
 </pre>
 
 <pre>

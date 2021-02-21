@@ -120,11 +120,6 @@ C++ no Visual Studio 2019.
       close: fecha o arquivo. 
       ios::app...inseri o conteúdo no final do arquivo, sem sobrescrever o que já existe.
 </pre>
-<pre>
-Lista ligada;
-Apresenação C++ Avançado:  lista ligada, ficheiros, strings, conversão de sistes numéricos, struct, enum, apontadores
-
-</pre>
 
 <pre>
 ****PROGRAMAS NO WINDOWS FORMS****
@@ -135,4 +130,11 @@ Apresenação C++ Avançado:  lista ligada, ficheiros, strings, conversão de si
       Limpar; Adicionar textBox para a listBox; Remover da lista (o que estiver na textBox); Inicializar listBox;
       Contar elementos da listBox; Eliminar 5 primeiros e os 5 últimos da listBox; Verificar se existe na lista;
       Substitui, se existir.
+</pre>
+
+<pre>
+
+*Lista ligada;
+*Apresenação C++ Avançado:  lista ligada, ficheiros, strings, conversão de sistes numéricos, struct, enum, apontadores
+
 </pre>

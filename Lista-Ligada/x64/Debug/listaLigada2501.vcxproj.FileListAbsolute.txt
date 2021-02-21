@@ -1,0 +1,2 @@
+E:\IEFP-Programador-CPP-Avancado\listaLigada\x64\Debug\listaLigada.exe
+E:\IEFP-Programador-CPP-Avancado\listaLigada\x64\Debug\listaLigada.pdb

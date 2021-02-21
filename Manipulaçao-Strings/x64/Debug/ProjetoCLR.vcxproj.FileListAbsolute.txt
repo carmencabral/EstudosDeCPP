@@ -1,0 +1,5 @@
+E:\IEFP-Programador-CPP-Avancado\Carmen\x64\Debug\ProjetoCLR.vcxprojAssemblyReference.cache
+E:\IEFP-Programador-CPP-Avancado\Carmen\x64\Debug\Carmen.exe
+E:\IEFP-Programador-CPP-Avancado\Carmen\x64\Debug\Carmen.pdb
+E:\IEFP-Programador-CPP-Avancado\Carmen\x64\Debug\ProjetoCLR.Form1.resources
+E:\IEFP-Programador-CPP-Avancado\Carmen\x64\Debug\ProjetoCLR.vcxproj.GenerateResource.cache

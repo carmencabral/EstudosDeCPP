@@ -1,0 +1,6 @@
+﻿  Form1.cpp
+E:\IEFP-Programador-CPP-Avancado\Carmen\Form1.h(546,6): warning C4101: 'golsClube1': unreferenced local variable
+E:\IEFP-Programador-CPP-Avancado\Carmen\Form1.h(546,22): warning C4101: 'golsClube2': unreferenced local variable
+E:\IEFP-Programador-CPP-Avancado\Carmen\Form1.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjetoCLR.vcxproj -> E:\IEFP-Programador-CPP-Avancado\Carmen\x64\Debug\Carmen.exe

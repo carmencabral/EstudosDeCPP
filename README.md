@@ -120,6 +120,11 @@ C++ no Visual Studio 2019.
       close: fecha o arquivo. 
       ios::app...inseri o conteúdo no final do arquivo, sem sobrescrever o que já existe.
 </pre>
+<pre>
+Lista ligada;
+Apresenação C++ Avançado:  lista ligada, ficheiros, strings, conversão de sistes numéricos, struct, enum, apontadores
+
+</pre>
 
 <pre>
 ****PROGRAMAS NO WINDOWS FORMS****

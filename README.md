@@ -136,5 +136,5 @@ C++ no Visual Studio 2019.
 
 *Lista ligada;
 *Apresenação C++ Avançado:  lista ligada, ficheiros, strings, conversão de sistes numéricos, struct, enum, apontadores
-
-</pre>
+*Strings-Manipulação
+*Ficheiros-Operações
